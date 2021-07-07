@@ -41,15 +41,13 @@ p{
     text-align: center;
     padding: 10px;
 }
-.footer{
+.motto{
     text-align: center;
 }
 footer {
+    text-align: center;
+    background-color: DarkSalmon;
     position:relative;
     margin-right: auto;
     margin-left: auto;
-}
-footer > a{
-    text-align: center;
-    background-color: DarkSalmon;
 }
