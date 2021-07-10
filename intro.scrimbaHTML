@@ -1,0 +1,58 @@
+<!---LISTS--->
+  <html>
+    <head></head>
+    <body>
+        <h1>Lists are really useful</h1>
+        <ol>
+            <li>List item one</li>
+            <li>a second list item</li>
+            <li>a third item here</li>
+            <li>yet another list item</li>
+        </ol>
+        <ol>
+            <li>list item 1</li>
+            <li>list item 2</li>
+            <li>list item 3</li>
+        </ol>
+        <ul>
+            <li>list item 1</li>
+            <li>list item 2</li>
+            <li>list item 3</li>
+        </ul>
+        
+    </body>
+</html>
+
+
+<!---IMAGES--->
+<html>
+    <head>
+        <title>Images</title>
+    </head>
+    <body>
+        <h1>Image on the web</h1>
+        <img src="images/dog-in-blanket.jpg" alt="a dog wrapped in a blanket sitting on the road">
+        <h1>Another image on the web</h1>
+        <img src="images/dog-on-swing.jpg" alt="a dog sitting on a swing">
+        <h1>A third image on the web</h1>
+        <img src="images/dog-wearing-jacket.jpg" alt="a dog wearing a jacket">
+    </body>
+</html>
+
+
+<!--ANCHORS--->
+<html>
+    <head>
+        <title>Anchors and Attributes</title>
+    </head>
+    <body>
+        <h1>Linking between pages</h1>
+        <p>Adding links is very easy to do! We use <a href="anchors.html">anchors</a> to link from one page to another, and we tell it what page to link to using attributes.</p> 
+       
+        <h3>Another link to another page</h3>
+        <p>Here ia another <a href="attributes.html">link</a> to another page</p>
+    </body>
+</html>
+
+
+
